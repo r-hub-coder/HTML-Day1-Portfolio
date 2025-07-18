@@ -22,3 +22,7 @@ This is my first HTML/CSS project...
 - HTML
 - CSS
 - GitHub
+
+🔗 [View My LinkedIn](https://www.linkedin.com/in/rania-saleem-5bb9bb374/)
+🧠 Built with guidance from a 75-Day Career Launch Challenge
+
